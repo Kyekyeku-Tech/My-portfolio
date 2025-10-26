@@ -36,7 +36,7 @@ const Hero = () => {
           <div className="hero-cta">
             <a href="#portfolio" className="btn primary">View Work</a>
             <a href="#contact" className="btn ghost">Hire Me</a>
-             <a href="/document/my_cv.pdf" className="eye-btn" target="_blank"
+             <a href="/document/my_cv.pdf" className="cv-btn view" target="_blank"
             rel="noopener noreferrer"
           >
               <i className="fa fa-eye"></i>
