@@ -26,7 +26,7 @@ const Hero = () => {
             <img className="orb-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java"/>
             <img className="orb-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" alt="Andriod"/>
             <img className="orb-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github"/>
-            <img className="orb-logo" src="public/images/icons8-microsoft-office.svg" alt="microsoft suit"/>
+            <img className="orb-logo" src="https://www.svgrepo.com/show/303589/office-1-logo.svg" alt="microsoft suit"/>
           </div>
         </div>
 
