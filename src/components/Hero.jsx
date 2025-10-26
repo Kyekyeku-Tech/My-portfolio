@@ -36,10 +36,12 @@ const Hero = () => {
           <div className="hero-cta">
             <a href="#portfolio" className="btn primary">View Work</a>
             <a href="#contact" className="btn ghost">Hire Me</a>
-            <button className="cv-btn view">
+             <a href="/document/my_cv.pdf"  target="_blank"
+            rel="noopener noreferrer"
+          >
               <i className="fa fa-eye"></i>
               <span>View CV</span>
-            </button>
+            </a>
             <a href="/document/my_cv.pdf" download className="cv-btn download">
               <i className="fa fa-download"></i>
               <span>Download CV</span>
